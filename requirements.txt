@@ -1,0 +1,4 @@
+dash
+psycopg2-binary
+pandas
+plotly

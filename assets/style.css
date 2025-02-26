@@ -1,0 +1,11 @@
+/* assets/style.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f9f9f9;
+}
+
+h1, h3 {
+  text-align: center;
+  color: #333;
+}
